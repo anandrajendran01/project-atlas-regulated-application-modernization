@@ -250,12 +250,16 @@ Material changes require approval through the established governance process bef
 
 ## 11. Scope Baseline Status
 
-**Scope Statement:** Drafted for baseline approval  
+**Scope Statement:** Approved / Established  
 **Requirements Baseline:** Established through the RTM  
-**WBS:** Planned for the next baseline step  
-**WBS Dictionary:** Planned for the next baseline step
+**WBS:** Approved / Established  
+**WBS Dictionary:** Approved / Established  
 
-The formal Project Scope Baseline will be complete after approval of the Scope Statement, WBS, and WBS Dictionary.
+**Project Scope Baseline:** Established — Version 1.0
+
+The Project Scope Statement, WBS, and WBS Dictionary now collectively form the approved Project Atlas Scope Baseline. Subsequent schedule, resource, cost, quality, risk, procurement, and performance-control artifacts will be developed using this baseline and its WBS coding structure.
+
+Any material change affecting the approved scope baseline requires formal integrated change control before the baseline is revised.
 
 ---
 
