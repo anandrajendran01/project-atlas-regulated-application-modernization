@@ -27,20 +27,20 @@ The objective is to supplement—not replace—core project ownership.
 
 ## 3. Procurement Budget
 
-The project plans **₹39.00 lakh** of externally procured specialist services:
+Following CR-001 approval, the project plans **₹41.40 lakh** of externally procured specialist services:
 
 | Package | Budget | Cost Baseline Category |
 |---|---:|---|
 | Independent Security Assessment | ₹5.00 L | Validation & Security Services |
-| Validation Review & Evidence Support | ₹6.00 L | Validation & Security Services |
-| Integration & Migration Specialist Support | ₹16.00 L | External / Specialist Vendor Services |
+| Validation Review & Evidence Support | ₹6.80 L | Validation & Security Services |
+| Integration & Migration Specialist Support | ₹17.60 L | External / Specialist Vendor Services |
 | Performance & Cutover Technical Support | ₹12.00 L | External / Specialist Vendor Services |
-| **Total** | **₹39.00 L** | |
+| **Total** | **₹41.40 L** | |
 
 These values reconcile to the existing Cost Baseline categories:
 
-- Validation & Security Services: **₹11.00 L**
-- External / Specialist Vendor Services: **₹28.00 L**
+- Validation & Security Services: **₹11.80 L**
+- External / Specialist Vendor Services: **₹29.60 L**
 
 ---
 
@@ -254,3 +254,19 @@ Project closure cannot assume vendor obligations are complete without commercial
 Project Atlas is an independent project-management portfolio simulation.
 
 All vendor names, budgets, contract types, commercial assumptions, selection scores, service descriptions, and dates are fictional / synthetic and do not represent confidential employer, customer, client, or supplier information.
+
+
+---
+
+## 14. CR-001 Procurement Amendment
+
+CR-001 was approved on 24 April 2026.
+
+The existing supplier strategy is retained, but the following package budgets / scopes are amended:
+
+- **P-002 Validation Review & Evidence Support:** ₹6.00 L → **₹6.80 L**
+- **P-003 Integration & Migration Specialist Support:** ₹16.00 L → **₹17.60 L**
+
+The total specialist procurement plan increases from ₹39.00 L to **₹41.40 L**.
+
+The amendments support the fifth enterprise integration, additional traceability / validation review, and targeted integration specialist capacity. They do not create a new supplier by default; existing approved suppliers may be amended subject to Procurement and commercial approval.

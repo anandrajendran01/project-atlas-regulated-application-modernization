@@ -95,6 +95,7 @@ The WBS follows the following principles:
 - **4.1.2 Enterprise Master Data Integration**
 - **4.1.3 Records Management Integration**
 - **4.1.4 Enterprise Notification Integration**
+- **4.1.5 Regulatory Reporting Integration**
 
 ## 4.2 Data Migration
 - **4.2.1 Source Data Profiling & Mapping**
@@ -201,7 +202,13 @@ Changes to the approved WBS require formal integrated change control.
 **WBS:** Established  
 **WBS Dictionary:** Established  
 
-**Scope Baseline Status:** Established for subsequent schedule, resource, and cost planning.
+**Scope Baseline Status:** Established — **Version 1.1**
+
+**Baseline Revision History**
+- Version 1.0: Original approved WBS.
+- Version 1.1 — 24 April 2026: CR-001 approved and WBS 4.1.5 Regulatory Reporting Integration added.
+
+The approved WBS remains the common coding structure for schedule, resource, cost, risk, procurement, quality, and earned-value control.
 
 ---
 
