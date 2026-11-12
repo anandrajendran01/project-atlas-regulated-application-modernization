@@ -6,7 +6,7 @@ This Risk Management Plan defines how Project Atlas will identify, analyze, resp
 
 The plan also defines how assumptions, issues, and dependencies will be managed through the RAID process.
 
-Project Atlas uses a structured risk approach because delivery includes regulated validation, four enterprise integrations, data migration, multi-region business participation, controlled production release, vendor dependencies, and a fixed nine-month delivery window.
+Project Atlas uses a structured risk approach because delivery includes regulated validation, five enterprise integrations, data migration, multi-region business participation, controlled production release, vendor dependencies, and a fixed nine-month delivery window.
 
 All risks, values, owners, dates, and financial exposures in this case study are synthetic.
 
@@ -169,9 +169,9 @@ For selected cost-relevant risks, Project Atlas uses a simplified Expected Monet
 
 This is not intended to imply that all risks are independent or that reserve should equal the simple mathematical sum without management judgment.
 
-The initial portfolio model produces approximately **₹20.75 lakh of quantified expected cost exposure**.
+Following CR-001 approval, the current portfolio model produces approximately **₹21.92 lakh of quantified expected cost exposure**.
 
-The Project Atlas Cost Baseline includes **₹22.00 lakh of contingency reserve**, providing a modest management allowance above the quantified initial exposure.
+The revised Project Atlas Cost Baseline includes **₹23.60 lakh of contingency reserve**, providing a modest management allowance above the quantified initial exposure.
 
 Management reserve remains separate and is not used for identified risk exposure.
 
@@ -179,7 +179,7 @@ Management reserve remains separate and is not used for identified risk exposure
 
 ## 12. Contingency Reserve Linkage
 
-The ₹22.00 lakh contingency reserve is intended to address identified uncertainty such as:
+The ₹23.60 lakh contingency reserve is intended to address identified uncertainty such as:
 
 - Integration delays / rework
 - Data remediation
@@ -322,3 +322,18 @@ Closed risks remain in the register for traceability and lessons learned.
 Project Atlas is an independent project-management portfolio simulation.
 
 All risks, assumptions, issues, dependencies, financial exposures, probability estimates, response plans, owners, and dates are fictional / synthetic and are used solely to demonstrate project-management practices.
+
+
+---
+
+## 21. Baseline Revision History
+
+### Version 1.1 — CR-001 Approved 24 April 2026
+
+The Risk Register is expanded to include CR-001-specific integration, data-mapping, validation, resource, security, and release / operations risks.
+
+A new external dependency is also added for the Enterprise Regulatory Reporting platform specification, endpoint, credentials, acknowledgement behavior, and test support.
+
+The revised contingency reserve is ₹23.60 L within the revised ₹248.80 L BAC.
+
+Risk exposure is not treated as a direct one-to-one reserve calculation because risks may be correlated, some response cost is already included in direct work budgets, and management judgment remains part of reserve analysis.

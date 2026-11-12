@@ -16,7 +16,7 @@ The solution will provide:
 
 - Modernized web-based business workflows
 - Role-based user access
-- Integration with four enterprise systems
+- Integration with five enterprise systems
 - Controlled migration of required operational and historical data
 - Audit and traceability capabilities
 - Requirements-to-test traceability
@@ -62,14 +62,17 @@ The project will:
 
 ### 3.4 Integration
 
-The project will implement and validate interfaces with four enterprise systems:
+The project will implement and validate interfaces with five enterprise systems:
 
 1. Identity and Access Management service
 2. Enterprise Master Data service
 3. Document / Records Management platform
 4. Enterprise Notification service
+5. Enterprise Regulatory Reporting platform
 
 The project covers interface design, development, testing, error handling, monitoring requirements, and deployment coordination for these integrations.
+
+For the Regulatory Reporting integration, scope includes designated reporting-data mapping, secure transmission, acknowledgement / error handling, audit evidence, monitoring, and operational support.
 
 ### 3.5 Data Migration
 
@@ -128,7 +131,7 @@ The project will:
 | Requirements Baseline | Approved functional, non-functional, integration, data, compliance, and operational requirements | Business Owner / Quality |
 | Solution Design | Approved application, integration, security, and migration design | Technology Lead |
 | Modernized Application | Configured and developed enterprise application | Business Owner / Technology |
-| Enterprise Integrations | Four implemented and tested system integrations | Technology Lead |
+| Enterprise Integrations | Five implemented and tested system integrations | Technology Lead |
 | Migrated Data | Approved migrated and reconciled data set | Business Owner / Data Lead |
 | Validation Package | Required plans, evidence, traceability, results, and approvals | Quality / Compliance |
 | UAT Acceptance | Approved user acceptance results | Business Owner |
@@ -143,7 +146,7 @@ The project will:
 
 The following items are explicitly excluded from Project Atlas:
 
-- Major redesign or replacement of the four connected enterprise systems
+- Major redesign or replacement of the five connected enterprise systems
 - Enterprise-wide master-data remediation outside records required for Atlas migration
 - Enterprise data-platform or analytics-platform modernization
 - Native mobile application development
@@ -162,7 +165,7 @@ Project Atlas will be eligible for final acceptance when:
 
 1. Approved in-scope requirements have been implemented or formally dispositioned.
 2. Required traceability exists between requirements, design, testing, and acceptance evidence.
-3. Four required enterprise integrations have passed approved testing.
+3. Five required enterprise integrations have passed approved testing.
 4. Migration reconciliation meets agreed control thresholds.
 5. Required validation documentation has been approved.
 6. UAT has been completed and formally accepted.
@@ -182,9 +185,9 @@ Project Atlas will be eligible for final acceptance when:
 The detailed scope assumes that:
 
 - Business SMEs will be available to clarify and approve requirements.
-- The four integration teams will expose agreed interfaces and support project milestones.
+- The five integration teams will expose agreed interfaces and support project milestones.
 - Source data required for migration is accessible and legally permitted for the intended use.
-- Existing enterprise identity, master-data, records-management, and notification services remain available.
+- Existing enterprise identity, master-data, records-management, notification, and Regulatory Reporting services remain available.
 - Required development, validation, testing, and production environments are provided according to the integrated schedule.
 - The project will use existing enterprise infrastructure and approved technology standards unless a change is formally authorized.
 - Required specialist vendor services can be procured within planned lead times.
@@ -196,11 +199,11 @@ The detailed scope assumes that:
 Scope delivery is constrained by:
 
 - Nine-month project duration
-- ₹2.40 crore Cost Baseline / BAC
+- ₹2.488 crore Cost Baseline / BAC
 - Regulated validation and documentation requirements
 - Controlled production-release windows
 - Availability of business SMEs and specialist technical resources
-- Dependencies on four enterprise integration teams
+- Dependencies on five enterprise integration teams
 - Existing enterprise architecture and security standards
 
 ---
@@ -255,9 +258,16 @@ Material changes require approval through the established governance process bef
 **WBS:** Approved / Established  
 **WBS Dictionary:** Approved / Established  
 
-**Project Scope Baseline:** Established — Version 1.0
+**Project Scope Baseline:** Established — Version 1.1
 
-The Project Scope Statement, WBS, and WBS Dictionary now collectively form the approved Project Atlas Scope Baseline. Subsequent schedule, resource, cost, quality, risk, procurement, and performance-control artifacts will be developed using this baseline and its WBS coding structure.
+The Project Scope Statement, WBS, and WBS Dictionary collectively form the approved Project Atlas Scope Baseline.
+
+**Baseline Revision History**
+
+- **Version 1.0:** Original approved baseline with four enterprise integrations.
+- **Version 1.1 — 24 April 2026:** CR-001 approved, adding the Enterprise Regulatory Reporting integration, requirements INT-005 / REG-003, and WBS 4.1.5.
+
+Subsequent schedule, resource, cost, quality, risk, procurement, and performance-control artifacts are controlled against Version 1.1 while historical Version 1.0 performance remains traceable.
 
 Any material change affecting the approved scope baseline requires formal integrated change control before the baseline is revised.
 

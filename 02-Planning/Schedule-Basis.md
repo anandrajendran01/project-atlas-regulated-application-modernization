@@ -10,6 +10,8 @@ The schedule translates the approved Scope Baseline into a time-phased delivery 
 
 ## 2. Baseline Period
 
+**Schedule Baseline Version:** 1.1 — CR-001 approved 24 April 2026
+
 **Baseline Start:** 05 January 2026  
 **Baseline Finish:** 30 September 2026  
 **Planned Duration:** Approximately 9 months
@@ -52,19 +54,20 @@ Durations in the schedule are expressed primarily in working days.
 
 ## 5. Key Stage Gates & Milestones
 
-The baseline includes the following major milestones:
+The Version 1.1 baseline includes the following major milestones:
 
 1. Project Charter Approved
 2. Requirements Baseline Approved
 3. Solution Design Approved
-4. Application & Integration Build Complete
-5. System & Integration Testing Complete
-6. Validation & UAT Complete
-7. Production Readiness Approved
-8. Go / No-Go Approved
-9. Production Go-Live
-10. Hypercare Complete
-11. Project Closure Approved
+4. Application Build Complete — 08-May-2026
+5. Integration Build Complete — 18-May-2026
+6. Technical Testing Complete — 24-Jun-2026
+7. Validation & UAT Complete — 06-Aug-2026
+8. Production Readiness Approved — 21-Aug-2026
+9. Go / No-Go Approved — 24-Aug-2026
+10. Production Go-Live — 28-Aug-2026
+11. Hypercare Complete — 25-Sep-2026
+12. Project Closure Approved — 30-Sep-2026
 
 These milestones are used for executive governance and release decision-making.
 
@@ -167,3 +170,19 @@ The WBS ID is retained as the principal traceability key across these artifacts.
 ## Portfolio Disclaimer
 
 Project Atlas is an independent project-management portfolio simulation. All dates, durations, dependencies, milestones, float values, and other project information are synthetic and do not represent confidential information from any employer, client, or customer.
+
+
+---
+
+## 11. Baseline Revision History
+
+### Version 1.0
+Original approved schedule for four enterprise integrations.
+
+### Version 1.1 — CR-001
+
+Approved on 24 April 2026.
+
+CR-001 adds the Regulatory Reporting integration and revises the Integration Build, Technical Testing, Validation / UAT, Production Readiness, Go / No-Go, Go-Live, and Hypercare milestones.
+
+The baseline revision includes only approved CR-001 scope impact. Pre-existing execution variance remains visible in performance reporting and is not reset by this rebaseline.

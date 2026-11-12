@@ -33,9 +33,9 @@ Project Atlas will:
 
 **Currency:** Indian Rupees (₹)  
 **Primary reporting unit:** ₹ lakh  
-**Cost Baseline / BAC:** ₹240.00 lakh (₹2.40 crore)  
+**Cost Baseline / BAC:** ₹248.80 lakh (₹2.488 crore)  
 **Management Reserve:** ₹15.00 lakh  
-**Total Authorized Project Budget:** ₹255.00 lakh (₹2.55 crore)
+**Total Authorized Project Budget:** ₹263.80 lakh (₹2.638 crore)
 
 ---
 
@@ -83,18 +83,18 @@ This category provides a limited allowance for project-specific operational and 
 
 | Cost Category | Budget |
 |---|---:|
-| Internal & Contract Delivery Resources | ₹142.00 L |
-| External / Specialist Vendor Services | ₹28.00 L |
-| Cloud & Infrastructure | ₹16.00 L |
-| Software & Licensing | ₹12.00 L |
-| Validation & Security Services | ₹11.00 L |
-| Training & Change Readiness | ₹6.00 L |
+| Internal & Contract Delivery Resources | ₹145.60 L |
+| External / Specialist Vendor Services | ₹29.60 L |
+| Cloud & Infrastructure | ₹16.60 L |
+| Software & Licensing | ₹12.40 L |
+| Validation & Security Services | ₹11.80 L |
+| Training & Change Readiness | ₹6.20 L |
 | Travel & Operational Costs | ₹3.00 L |
-| **Direct Project Cost** | **₹218.00 L** |
-| Contingency Reserve | ₹22.00 L |
-| **Cost Baseline / BAC** | **₹240.00 L** |
+| **Direct Project Cost** | **₹225.20 L** |
+| Contingency Reserve | ₹23.60 L |
+| **Cost Baseline / BAC** | **₹248.80 L** |
 | Management Reserve | ₹15.00 L |
-| **Total Authorized Budget** | **₹255.00 L** |
+| **Total Authorized Budget** | **₹263.80 L** |
 
 The detailed workbook provides the calculation basis and monthly phasing.
 
@@ -102,7 +102,7 @@ The detailed workbook provides the calculation basis and monthly phasing.
 
 ## 6. Contingency Reserve
 
-**Contingency Reserve: ₹22.00 lakh**
+**Contingency Reserve: ₹23.60 lakh**
 
 Contingency reserve is included within the Cost Baseline and therefore within BAC.
 
@@ -139,7 +139,7 @@ If management reserve is approved for use, the relevant amount will be transferr
 
 The approved Project Atlas Cost Baseline is:
 
-**₹240.00 lakh / ₹2.40 crore**
+**₹248.80 lakh / ₹2.488 crore**
 
 The baseline is time-phased across the nine-month schedule and will serve as the basis for:
 
@@ -222,7 +222,7 @@ A forecast change does not automatically change the approved baseline.
 
 ## 13. Relationship to Earned Value Management
 
-The approved **₹240.00 lakh BAC** will become the financial baseline for future EVM reporting.
+The approved **₹248.80 lakh BAC** will become the financial baseline for future EVM reporting.
 
 Planned Value will be derived from the time-phased Cost Baseline.
 
@@ -282,3 +282,22 @@ At project closure, the Project Manager will coordinate:
 Project Atlas is an independent Project Management portfolio simulation.
 
 All rates, budgets, cost categories, reserves, funding assumptions, forecasts, and financial information are fictional / synthetic and do not represent confidential employer, client, customer, payroll, or commercial information.
+
+
+---
+
+## 16. Baseline Revision History
+
+### Version 1.0
+BAC ₹240.00 L, Management Reserve ₹15.00 L, Total Authorization ₹255.00 L.
+
+### Version 1.1 — CR-001 Approved 24 April 2026
+Incremental BAC ₹8.80 L approved for the Regulatory Reporting integration.
+
+- Revised Direct Project Cost: ₹225.20 L
+- Revised Contingency Reserve: ₹23.60 L
+- Revised BAC: ₹248.80 L
+- Management Reserve: ₹15.00 L unchanged and outside BAC
+- Revised Total Authorized Budget: ₹263.80 L
+
+The pre-existing Month-3 forecast variance is not reset by this baseline change.
